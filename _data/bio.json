@@ -22,36 +22,36 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Technical Skills",
+      "keywords": [ "SAP", "ORACLE", "Ariba", "MS Suite", "MS Project", "AutoCAD", "SolidWorks", "R Studio", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Wichita State University, Wichita, KS",
+      "area": "Management Science & Supply Chain Analytics",
+      "studyType": "M.S.",
+      "startDate": "2022-08-22",
+      "endDate": "2024-05-10",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "ARQ",
+      "position": "Supply Chain Analyst",
+      "website": "https://www.arq.com/",
+      "startDate": "2024-08-05",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Analyzed MRO $5M Portfolio",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Drive, design and build student-community projects for ARQ"
       ]
     },
     {
