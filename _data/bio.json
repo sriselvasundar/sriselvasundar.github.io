@@ -1,26 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Sri Selva Sundar",
+    "label": "Supply Chain Analyst",
+    "picture": "https://github.com/sriselvasundar.png",
+    "email": "selvasundar1512@gmail.com",
+    "phone": "316-730-0394",
+    "website": "https://sriselvasundar.github.io",
+    "summary": "Mechanical Engineer Specialized In Engineering & Supply Chain Operations",
+    "location": { "address": "1520 Preston Road", "postalCode": "75093", "city": "Plano", "countryCode": "USA", "region": "TX" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "sriselvasundar", "url": "http://github.com/sriselvasundar" },
+      { "network": "linkedin", "username": "Selvasundar Srilakshmi", "url": "http://linkedin.com/in/selvasundar-srilakshmi-b54217195" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Supply Chain Analytics" },
+    { "name": "Mechanical Engineering" },
+    { "name": "Industrial Engineering" }
+    { "name": "Manufacturing Engineering" },
+    { "name": "Quality Engineering" }
   ],
   "skills": [
     {
